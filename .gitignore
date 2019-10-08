@@ -1,0 +1,8 @@
+# JS
+demo
+build
+node_modules
+
+# IDE
+.vscode
+.idea
